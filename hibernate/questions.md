@@ -1,3 +1,5 @@
+# Hibernate
+
 1. What is hibernate and why to use it ?
 2. How does hibernae work in java ?
 3. Advatages of using hibernate ?
@@ -14,7 +16,7 @@
 14. Difference, Session Vs SessionFactory ?
 15. Difference, 1st Level Cache Vs 2nd Level Cache ?
 16. Difference, Hibernate vs Jpa ?
-17. Waht is session factory in hibernate ?
+17. What is session factory in hibernate ?
 18. Difference between Save() and Persist() method ?
 19. Workgin of hibernate transaction management ?
 20. Cuncurrency strategies available in hibernate ?
